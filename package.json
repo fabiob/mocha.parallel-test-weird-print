@@ -1,0 +1,15 @@
+{
+  "name": "mocha.parallel-prints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fábio Batista <fabio@elementarsistemas.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "mocha.parallel": "^0.15.4"
+  }
+}
