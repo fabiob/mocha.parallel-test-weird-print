@@ -5,7 +5,7 @@ describe('sample test', () => {
     'a b c d e f g h'.split(' ').forEach(letter => {
       it('should wait for ' + letter, () => {
         return new Promise(resolve => setTimeout(resolve, 1000));
-			});
-		});
-	});
+      });
+    });
+  });
 });
